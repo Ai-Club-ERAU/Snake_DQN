@@ -1,1 +1,3 @@
-# Snake_DQN
+# Smart-Snek
+
+![Image description](Snake.gif)
